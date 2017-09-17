@@ -32,41 +32,41 @@ Artículo 3.- El Consejo pondrá a disposición de las personas comprendidas en 
 4) El término para interponer los recursos será de cinco (5) días hábiles, a partir de la comunicación del Consejo.  
 Artículo 4.- El Ejercicio Profesional sólo podrá realizarse por quienes se encuentren matriculados conforme a las Normas de esta Ley.  
 Artículo 5.- Se considerará Ejercicio Profesional:  
- 1) La Publicidad ofreciendo servicios.  
- 2) La emisión, reproducción o difusión de las palabras: Analista, Licenciado, Ingeniero, Asesor, Consultor, Computador, Experto, Auditor o similares y sus equivalencias en idiomas extranjeros, con referencia a cualesquiera de los ámbitos de las profesiones reglamentadas por esta ley.  
- 3) El empleo de los términos: Academia, Estudio, Asesoría, Consultoría, Oficina, Centro, Sociedad, Asociación, Organización u otros similares y sus equivalentes en idiomas extranjeros, con referencia a cualesquiera de las profesiones reglamentadas por esta ley.  
+1) La Publicidad ofreciendo servicios.  
+2) La emisión, reproducción o difusión de las palabras: Analista, Licenciado, Ingeniero, Asesor, Consultor, Computador, Experto, Auditor o similares y sus equivalencias en idiomas extranjeros, con referencia a cualesquiera de los ámbitos de las profesiones reglamentadas por esta ley.  
+3) El empleo de los términos: Academia, Estudio, Asesoría, Consultoría, Oficina, Centro, Sociedad, Asociación, Organización u otros similares y sus equivalentes en idiomas extranjeros, con referencia a cualesquiera de las profesiones reglamentadas por esta ley.  
 Artículo 6.- El ejercicio de las Profesiones comprendidas en el Artículo 1, por personas no inscriptas en el Consejo con su correspondiente matrícula, será penado por multas en dinero que oscilarán entre diez (10) y quinientas (500) veces el valor del derecho de Inscripción a la matrícula.  
 Artículo 7.- El que se arrogue indebidamente cualquiera de los títulos de las profesiones reglamentadas por esta ley, además de las responsabilidades civiles o penales que les correspondiere, será sancionado por el Consejo Profesional en los mismos términos que en el artículo anterior.  
 Artículo 8.- Los cargos existentes o a crearse en actividades, o en Entidades Civiles, Comerciales, Públicas, Privadas o Mixtas, no podrán designarse con denominaciones que den lugar a que quienes los ocupen, usen indebidamente el título de profesiones a que se refiere la presente ley, salvo que dichos cargos sean ocupados por profesionales matriculados en las disciplinas reglamentadas por esta ley.  
 Artículo 9.- Las asociaciones, empresas, sociedades y toda otra institución pública o mixta sólo podrán ejercer la actividad informática cuando los titulares de las funciones o tareas equivalentes comprendidas como Ejercicio Profesional en esta ley posean la matrícula profesional del Consejo que reglamenta la misma.  
 Artículo 10.- Los habilitados en las profesiones comprendidas en esta ley, podrán hacer Ejercicio Profesional al realizar las siguientes actividades, enumeradas a manera de ejemplo:  
- 1) Relevar y analizar los procesos funcionales de una Organización, con la finalidad de diseñar sus Sistemas de Información asociados.  
- 2) Entender, planificar, dirigir y/o controlar el diseño y la implementación de Sistemas de Información orientados hacia el procesamiento manual o automático, mediante máquinas o equipamiento electrónico y/o electromecánico.  
- 3) Entender, planificar y/o dirigir los estudios técnico-económico de factibilidad y/o referentes a la configuración y dimensionamiento de sistemas automatizados de procesamiento de datos.  
- 4) Supervisar la implantación de los sistemas automatizados de procesamiento de datos y organizar y capacitar al personal afectado por dichos sistemas.  
- 5) Organizar, dirigir y controlar Centro de Procesamientos de Datos o Centros de Cómputos, seleccionar y capacitar al personal de los mismos, preparar y capacitar al personal de todas las áreas afectadas por su servicio.  
- 6) Asesorar, evaluar y verificar la utilización, eficiencia y confiabilidad del equipamiento electrónico o electromecánico, como así también de la información procesada por los mismos.  
- 7) Determinar, regular y administrar las pautas operativas a regir en las instalaciones de Procesamiento de Datos o Centros de Cómputos. Desarrollar y aplicar técnicas de seguridad en lo referente al acceso y disponibilidad de la información, como así también, los respaldos de seguridad de todos los recursos operables.  
- 8) Instrumentar y emitir toda documentación que respalde la actividad del Centro de Procesamiento de Información. También diseñar y confeccionar los manuales de Procesos y los formularios requeridos para el procesamiento de la información.  
- 9) Crear, implantar, reveer y actualizar las normas de control que hacen al funcionamiento, interno o externo, de los Centros de Procesamiento de Información.  
- 10) Efectuar las tareas de Auditoría de los Sistemas de Información y de los Centros de Procesamiento, perteneciendo a otra área de la misma Empresa, o respondiendo a una Auditoría Externa.  
- 11) Participar en ámbitos públicos o privados, en tareas vinculadas con el desarrollo, difusión y supervisión de las actividades relacionadas con la Informática.  
- 12) Desempeñar cargos, funciones, comisiones o empleos dependientes de organismos oficiales, privados o mixtos para cuya designación se requiera estar habilitado en Ciencias Informáticas, o para los que se requieran conocimientos propios de la profesión.  
- 13) Realizar arbitrajes, pericias y tasaciones relacionados con los Sistemas de Información y todo el equipamiento para el Procesamiento de Datos. Dictaminar e informar a las Administraciones e Intervenciones Judiciales como perito en su materia, en todos los fueros.  
- 14) Cualquier otra tarea que no estando presente en los anteriores incisos requiera de los conocimientos propios de la profesión.  
+1) Relevar y analizar los procesos funcionales de una Organización, con la finalidad de diseñar sus Sistemas de Información asociados.  
+2) Entender, planificar, dirigir y/o controlar el diseño y la implementación de Sistemas de Información orientados hacia el procesamiento manual o automático, mediante máquinas o equipamiento electrónico y/o electromecánico.  
+3) Entender, planificar y/o dirigir los estudios técnico-económico de factibilidad y/o referentes a la configuración y dimensionamiento de sistemas automatizados de procesamiento de datos.  
+4) Supervisar la implantación de los sistemas automatizados de procesamiento de datos y organizar y capacitar al personal afectado por dichos sistemas.  
+5) Organizar, dirigir y controlar Centro de Procesamientos de Datos o Centros de Cómputos, seleccionar y capacitar al personal de los mismos, preparar y capacitar al personal de todas las áreas afectadas por su servicio.  
+6) Asesorar, evaluar y verificar la utilización, eficiencia y confiabilidad del equipamiento electrónico o electromecánico, como así también de la información procesada por los mismos.  
+7) Determinar, regular y administrar las pautas operativas a regir en las instalaciones de Procesamiento de Datos o Centros de Cómputos. Desarrollar y aplicar técnicas de seguridad en lo referente al acceso y disponibilidad de la información, como así también, los respaldos de seguridad de todos los recursos operables.  
+8) Instrumentar y emitir toda documentación que respalde la actividad del Centro de Procesamiento de Información. También diseñar y confeccionar los manuales de Procesos y los formularios requeridos para el procesamiento de la información.  
+9) Crear, implantar, reveer y actualizar las normas de control que hacen al funcionamiento, interno o externo, de los Centros de Procesamiento de Información.  
+10) Efectuar las tareas de Auditoría de los Sistemas de Información y de los Centros de Procesamiento, perteneciendo a otra área de la misma Empresa, o respondiendo a una Auditoría Externa.  
+11) Participar en ámbitos públicos o privados, en tareas vinculadas con el desarrollo, difusión y supervisión de las actividades relacionadas con la Informática.  
+12) Desempeñar cargos, funciones, comisiones o empleos dependientes de organismos oficiales, privados o mixtos para cuya designación se requiera estar habilitado en Ciencias Informáticas, o para los que se requieran conocimientos propios de la profesión.  
+13) Realizar arbitrajes, pericias y tasaciones relacionados con los Sistemas de Información y todo el equipamiento para el Procesamiento de Datos. Dictaminar e informar a las Administraciones e Intervenciones Judiciales como perito en su materia, en todos los fueros.  
+14) Cualquier otra tarea que no estando presente en los anteriores incisos requiera de los conocimientos propios de la profesión.  
 Artículo 11.- Los graduados contemplados en esta ley sólo podrán hacer Ejercicio Profesional dentro de las incumbencias fijadas por sus respectivos títulos.  
 Artículo 12.- Las personas no graduadas en las profesiones contempladas en esta ley podrán hacer Ejercicio Profesional según se fija a continuación:  
- 1) Las personas no graduadas que demuestren fehacientemente seis (6) o más años de experiencia funcional en la aplicación de los conocimientos que se consideran como propios de la profesión, de acuerdo al Artículo 10, Incisos 1), 2) y 3) como mínimo y a la fecha de promulgación de esta ley, podrán realizar las tareas o funciones enumeradas en el Artículo 10 de la presente.  
- 2) Las personas no graduadas que demuestren fehacientemente menos de seis (6) años ininterrumpidos de experiencia funcional en la aplicación de los conocimientos que se consideran como propios de la profesión, de acuerdo al Artículo 10, Incisos 1), 2) y 3) como mínimo y a la fecha de la promulgación de esta ley, sólo podrán realizar las tareas o funciones relacionadas con los incisos 1), 2), 3), 4), 6), 8), 11) y 12) del Artículo 10 de esta ley.  
+1) Las personas no graduadas que demuestren fehacientemente seis (6) o más años de experiencia funcional en la aplicación de los conocimientos que se consideran como propios de la profesión, de acuerdo al Artículo 10, Incisos 1), 2) y 3) como mínimo y a la fecha de promulgación de esta ley, podrán realizar las tareas o funciones enumeradas en el Artículo 10 de la presente.  
+2) Las personas no graduadas que demuestren fehacientemente menos de seis (6) años ininterrumpidos de experiencia funcional en la aplicación de los conocimientos que se consideran como propios de la profesión, de acuerdo al Artículo 10, Incisos 1), 2) y 3) como mínimo y a la fecha de la promulgación de esta ley, sólo podrán realizar las tareas o funciones relacionadas con los incisos 1), 2), 3), 4), 6), 8), 11) y 12) del Artículo 10 de esta ley.  
 Artículo 13.- Los reconocimientos de profesionalidad, establecidos en el Artículo 12, tendrán efecto en todos los casos por única vez. A partir del año calendario posterior a la promulgación de esta ley, todos los nuevos matriculados deberán ser graduados en algunos de los títulos oficiales, según se establece en el Artículo 2°.  
 Artículo 14.- El conjunto de las actividades enumeradas en el Artículo 10, de la presente ley, deberán llevar la firma y número de matrícula de los profesionales que hayan participado en la elaboración y ejecución de las mismas, haciéndose responsables por este acto de la labor profesional desempeñada.  
 Artículo 15.- Todo profesional contemplado en el Artículo 1 y 2 de esta ley, y que desee ejercer la profesión deberá presentar su solicitud de inscripción ante el Consejo, además de:  
- 1) Acreditar su identidad personal.  
- 2) Presentar el título habilitante o requisitos fijados en el Artículo 3 de esta ley.  
- 3) Manifestar bajo juramento no estar comprendido en las siguientes causales de inhabilitación:  
-  a) Incapacidad de hecho.  
-  b) Condena por delitos que llevan como accesoria la inhabilitación profesional u otros delitos infamantes.  
-  c) Exclusión del Ejercicio Profesional por sanciones disciplinarias del Consejo a que pertenencia o cualquier Consejo Profesional de Ciencias Informáticas del país en que haya sido sancionado, con dicha inhabilitación.  
+1) Acreditar su identidad personal.  
+2) Presentar el título habilitante o requisitos fijados en el Artículo 3 de esta ley.  
+3) Manifestar bajo juramento no estar comprendido en las siguientes causales de inhabilitación:  
+a) Incapacidad de hecho.  
+b) Condena por delitos que llevan como accesoria la inhabilitación profesional u otros delitos infamantes.  
+c) Exclusión del Ejercicio Profesional por sanciones disciplinarias del Consejo a que pertenencia o cualquier Consejo Profesional de Ciencias Informáticas del país en que haya sido sancionado, con dicha inhabilitación.  
 4) Declarar su domicilio real y el de su o sus actividades profesionales.  
 5) Ser persona de buena conducta.  
 6) Todo otro requisito reglamentado en los estatutos.  
