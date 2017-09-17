@@ -30,7 +30,9 @@ Artículo 3.- El Consejo pondrá a disposición de las personas comprendidas en 
 2) El Consejo analizará cada caso y dictaminará mediante Resolución, si corresponde o no otorgar la matrícula.  
 3) Contra la Resolución del Consejo podrá interponerse Recurso de Nulidad y Apelación, el que se tramitará por ante la Cámara en lo Contencioso Administrativo de la ciudad de Córdoba, aplicándose para su trámite las Normas del Código de Procedimiento en lo Contencioso-Administrativo de la Provincia de Córdoba. El recurso será concedido en relación.  
 4) El término para interponer los recursos será de cinco (5) días hábiles, a partir de la comunicación del Consejo.  
+
 Artículo 4.- El Ejercicio Profesional sólo podrá realizarse por quienes se encuentren matriculados conforme a las Normas de esta Ley.  
+
 Artículo 5.- Se considerará Ejercicio Profesional:  
 1) La Publicidad ofreciendo servicios.  
 2) La emisión, reproducción o difusión de las palabras: Analista, Licenciado, Ingeniero, Asesor, Consultor, Computador, Experto, Auditor o similares y sus equivalencias en idiomas extranjeros, con referencia a cualesquiera de los ámbitos de las profesiones reglamentadas por esta ley.  
