@@ -67,18 +67,19 @@ Artículo 15.- Todo profesional contemplado en el Artículo 1 y 2 de esta ley, y
   a) Incapacidad de hecho.  
   b) Condena por delitos que llevan como accesoria la inhabilitación profesional u otros delitos infamantes.  
   c) Exclusión del Ejercicio Profesional por sanciones disciplinarias del Consejo a que pertenencia o cualquier Consejo Profesional de Ciencias Informáticas del país en que haya sido sancionado, con dicha inhabilitación.  
-4) Declarar su domicilio real y el de su o sus actividades profesionales.
-5) Ser persona de buena conducta.
-6) Todo otro requisito reglamentado en los estatutos.
-Artículo 16.- El Consejo analizará, a través de su organismo respectivo, y dictaminará en un plazo no mayor de quince (15) días hábiles, si corresponde o no la matrícula. Vencido dicho plazo deberá el Consejo expedirse:
-1) Si rechazó la solicitud de inscripción a la matrícula, deberá fundar la resolución en causa y antecedentes concretos.
-2) Si acordó la inscripción y la matrícula, extenderá al interesado el certificado habilitante con su identidad, domicilio y número de matrícula.
-3) Si venciera el plazo y no existiese respuesta del Consejo, se tendrá por concedida automáticamente debiendo el Consejo proceder tal como se indica en el inciso 2) del presente artículo.
-Artículo 17.- En ningún caso podrá denegar el Consejo la matrícula por razones ideológicas, políticas, raciales o religiosas, de índole moral propia, íntima o privada del profesional.
-Artículo 18.- Contra la resolución denegatoria del Consejo respecto de la matrícula, podrá interponerse Recurso de Nulidad y Apelación, el que se tramitará por ante la Cámara en lo Contencioso - Administrativo en turno en la ciudad de Córdoba, aplicándose a sus efectos las normas del Código de Procedimientos en lo Contencioso - Administrativo de la Provincia de Córdoba.
-Artículo 19.- El término para interponer los recursos será de cinco (5) días hábiles.
-TITULO II
-CÓDIGO DE ÉTICA
+4) Declarar su domicilio real y el de su o sus actividades profesionales.  
+5) Ser persona de buena conducta.  
+6) Todo otro requisito reglamentado en los estatutos.  
+Artículo 16.- El Consejo analizará, a través de su organismo respectivo, y dictaminará en un plazo no mayor de quince (15) días hábiles, si corresponde o no la matrícula. Vencido dicho plazo deberá el Consejo expedirse:  
+1) Si rechazó la solicitud de inscripción a la matrícula, deberá fundar la resolución en causa y antecedentes concretos.  
+2) Si acordó la inscripción y la matrícula, extenderá al interesado el certificado habilitante con su identidad, domicilio y número de matrícula.  
+3) Si venciera el plazo y no existiese respuesta del Consejo, se tendrá por concedida automáticamente debiendo el Consejo proceder tal como se indica en el inciso 2) del presente artículo.  
+Artículo 17.- En ningún caso podrá denegar el Consejo la matrícula por razones ideológicas, políticas, raciales o religiosas, de índole moral propia, íntima o privada del profesional.  
+Artículo 18.- Contra la resolución denegatoria del Consejo respecto de la matrícula, podrá interponerse Recurso de Nulidad y Apelación, el que se tramitará por ante la Cámara en lo Contencioso - Administrativo en turno en la ciudad de Córdoba, aplicándose a sus efectos las normas del Código de Procedimientos en lo Contencioso - Administrativo de la Provincia de Córdoba.  
+Artículo 19.- El término para interponer los recursos será de cinco (5) días hábiles.  
+  
+## TITULO II
+### CÓDIGO DE ÉTICA
 Artículo 20.- NORMAS GENERALES
 1) Este Código rige para los profesionales de Informática inscriptos en la entidad Consejo Profesional en Ciencias Informáticas en razón de su estado profesional y en el ejercicio de su profesión, ya sea en forma independiente o en relación de dependencia.
 2) El Tribunal Arbitral y de Disciplina entenderá y juzgará, de acuerdo a las normas de este Código, las faltas cometidas en el ejercicio de la profesión o que afecten al decoro de ésta. 
